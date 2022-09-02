@@ -15,4 +15,4 @@ A real time Chat App using socket.io
 ![](images/Screenshot%202022-09-02%20at%2010.43.26%20AM.png)
 
 ### among more than two people ###
-![](images/you-picture.png)
+![](images/Screenshot%202022-09-02%20at%2011.03.11%20AM.png)
