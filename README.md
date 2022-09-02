@@ -7,7 +7,7 @@ A real time Chat App using socket.io
 * Used Socket.io to make use of Web Sockets to allow synchronous exchange between Client & Server.
 
 ## Home Page ##
-![](images/you-picture.png)
+![](images/Screenshot%202022-09-02%20at%2010.42.03%20AM.png)
 
 ## Public Chat ##
 
